@@ -20,7 +20,7 @@ double incomeCalc(){
         cin >> income;
         totalIncome += income;
         year += 1;
-    }
+    }s
     //TODO: Calculate the average income (hint: you will need a variable inside the loop
     //      that keeps a running total of the income)
     //      remember that the average is the sum divided by the number of observations
